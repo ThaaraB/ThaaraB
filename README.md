@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThaaraB
+- 👀 I’m interested in coding and prodraming.
+- 🌱 I’m currently learning CS50.
+- 💞️ I’m looking to collaborate on coding and programing.
+- 📫 You can reach me via WhatsApp +254728630127
